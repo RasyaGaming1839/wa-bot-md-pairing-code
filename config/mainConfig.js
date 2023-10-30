@@ -54,12 +54,12 @@ module.exports = {
     }
   },
   bot: {
-    name: 'Bot Name',
+    name: 'Neizaa 💓',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
     name: ["Owner Name"],
-    number: ["628xxx", "6289512545999"]
+    number: ["6285778712065"]
   },
   daily_limit: {
     free: 10,
@@ -67,8 +67,8 @@ module.exports = {
   },
   watermark: {
     sticker: {
-      package_name: 'Created by',
-      author_name: 'Your Name'
+      package_name: 'Created by Neizaa',
+      author_name: 'Rasya'
     }
   },
   react: {
